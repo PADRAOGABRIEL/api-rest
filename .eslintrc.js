@@ -11,7 +11,12 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'no-plusplus': 0,
-    'no-console': 0,
+    "no-unused-vars": 0,
+    "quotes": 0,
+    "quote-props": 0,
+    "import/no-extraneous-dependencies": 0,
+    "class-methods-use-this": 0,
+    "no-console": 0,
+
   },
 };
