@@ -17,6 +17,8 @@ module.exports = {
     "import/no-extraneous-dependencies": 0,
     "class-methods-use-this": 0,
     "no-console": 0,
+    "import/first": 0,
+    "import/newline-after-import": 0,
 
   },
 };
