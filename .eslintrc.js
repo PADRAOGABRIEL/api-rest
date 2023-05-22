@@ -19,6 +19,7 @@ module.exports = {
     "no-console": 0,
     "import/first": 0,
     "import/newline-after-import": 0,
+    "strict": 0,
 
   },
 };
