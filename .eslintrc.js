@@ -20,6 +20,7 @@ module.exports = {
     "import/first": 0,
     "import/newline-after-import": 0,
     "strict": 0,
+    "no-param-reassign": 0,
 
   },
 };
