@@ -21,6 +21,7 @@ module.exports = {
     "import/newline-after-import": 0,
     "strict": 0,
     "no-param-reassign": 0,
+    "no-shadow": 0,
 
   },
 };
