@@ -24,6 +24,6 @@ module.exports = {
     "no-shadow": 0,
     "no-empty-function": 0,
     "consistent-return": 0,
-
+    "camelcase": 0,
   },
 };
